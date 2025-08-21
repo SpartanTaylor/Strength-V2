@@ -1,0 +1,1 @@
+// JavaScript logic for Strength v2 Full
